@@ -25,8 +25,8 @@ Sigue estos pasos para configurar el proyecto:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tuusuario/clinic-management.git
-   cd clinic-management
+   git clone https://github.com/alonsogc96/django_clinic_management.git
+   cd django_clinic_management
    ```
 
 2. **Crea un entorno virtual:**
